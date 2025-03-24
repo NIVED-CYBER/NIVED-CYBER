@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nived K S</h1>
 <h3 align="center">A passionate AIML Engineer</h3>
+<img align="right" alt="Coding" width="3000" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nived-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="nived-cyber" /> </p>
 
@@ -27,4 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nived-cyber&show_icons=true&locale=en" alt="nived-cyber" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nived-cyber&" alt="nived-cyber" /></p>
-
