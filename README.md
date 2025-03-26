@@ -30,3 +30,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nived-cyber&show_icons=true&locale=en" alt="nived-cyber" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nived-cyber&" alt="nived-cyber" /></p>
+<div id="Quote" align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
